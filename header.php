@@ -1,4 +1,45 @@
-<html class="ltr" dir="ltr" lang="id" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
+<html lang="en-US" class="ltr" dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>mediatiktok666 | mediatiktok666 is website share video, stream &amp; download all konten free.</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="mediatiktok666">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="mediatiktok666 is website share video, stream &amp; download all konten free.">
+<meta property="og:description" content="mediatiktok666 is website share video, stream &amp; download all konten free.">
+<link rel="canonical" href="https://mediatiktok666-sys.github.io/mediatiktok666/">
+<meta property="og:url" content="https://mediatiktok666-sys.github.io/mediatiktok666/">
+<meta property="og:site_name" content="mediatiktok666">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="mediatiktok666">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"mediatiktok666 is website share video, stream &amp; download all konten free.","headline":"mediatiktok666","name":"mediatiktok666","url":"https://mediatiktok666-sys.github.io/mediatiktok666/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style><link rel="stylesheet" href="/mediatiktok666/assets/css/style.css?v=97923690ce807645db800223713c57ef544a6bc8">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/mediatiktok666/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  <meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+  <body class="is-home is-multiple is-boxed">
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://mediatiktok666-sys.github.io/mediatiktok666/">mediatiktok666</a></h1>
+      
+
+      
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=yes" name="viewport">
 <title>VIP 666</title>
@@ -4751,8 +4792,8 @@ font-size:27px
 
 <!-- data-ad-client=ca-pub-2003809904493266 -->
 
-<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/google_top_exp.js"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><style>.gc-bubbleDefault{background-color:transparent!important;text-align:left;padding:0!important;margin:0!important;border:0!important;table-layout:auto!important}.gc-reset{background-color:transparent!important;border:0!important;padding:0!important;margin:0!important;text-align:left}.pls-bubbleTop{border-bottom:1px solid #ccc!important}.pls-contentLeft,.pls-topTail,.pls-vertShimLeft{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif)!important}.pls-topTail{background-repeat:repeat-x!important;background-position:bottom!important}.pls-vertShim{background-color:#fff!important;text-align:right}.tbl-grey .pls-vertShim{background-color:#f5f5f5!important}.pls-vertShimLeft{background-repeat:repeat-y!important;background-position:100%!important;height:4px}.pls-vertShimRight{height:4px}.pls-confirm-container .pls-vertShim{background-color:#fff3c2!important}.pls-contentWrap{background-color:#fff!important;position:relative!important;vertical-align:top}.pls-contentLeft{background-repeat:repeat-y;background-position:100%;vertical-align:top}.pls-dropRight{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropR_3.png)!important;background-repeat:repeat-y!important;vertical-align:top}.pls-dropBL,.pls-dropTR .pls-dropBR,.pls-tailleft,.pls-vert,.pls-vert img{vertical-align:top}.pls-dropBottom{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropB_3.png)!important;background-repeat:repeat-x!important;width:100%;vertical-align:top}.pls-topLeft{background:inherit!important;text-align:right;vertical-align:bottom}.pls-topRight{background:inherit!important;text-align:left;vertical-align:bottom}.pls-bottomLeft{background:inherit!important;text-align:right}.pls-bottomRight{background:inherit!important;text-align:left;vertical-align:top}.pls-tailbottom,.pls-tailleft,.pls-tailright,.pls-tailtop{display:none;position:relative}.pls-dropBL,.pls-dropBR,.pls-dropTR,.pls-tailbottom,.pls-tailleft,.pls-tailright,.pls-tailtop{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite_3.png)!important;background-repeat:no-repeat}.tbl-grey .pls-dropBL,.tbl-grey .pls-dropBR,.tbl-grey .pls-dropTR,.tbl-grey .pls-tailbottom,.tbl-grey .pls-tailleft,.tbl-grey .pls-tailright,.tbl-grey .pls-tailtop{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite-grey.png)!important}.pls-tailbottom{background-position:-23px 0}.pls-confirm-container .pls-tailbottom{background-position:-23px -10px}.pls-tailtop{background-position:-19px -20px}.pls-tailright{background-position:0 0}.pls-tailleft{background-position:-10px 0}.pls-tailtop{vertical-align:top}.gc-bubbleDefault td{line-height:0;font-size:0}.pls-tailbottom,.pls-topLeft img,.pls-topRight img{vertical-align:bottom}.bubbleDropTR,.pls-bottomLeft,.pls-bottomLeft img,.pls-dropBottom img,.pls-dropBottomL img,.pls-dropBottomR img{vertical-align:top}.pls-dropTR{background-position:0 -22px}.pls-dropBR{background-position:0 -27px}.pls-dropBL{background-position:0 -16px}.pls-spacerbottom,.pls-spacerleft,.pls-spacerright,.pls-spacertop{position:static!important}.pls-spinner{bottom:0;position:absolute;left:0;margin:auto;right:0;top:0}</style><style id="theia-sticky-sidebar-stylesheet-TSS">.theiaStickySidebar:after {content: ""; display: table; clear: both;}</style></head>
-<body class="is-home is-multiple is-boxed">
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/js/google_top_exp.js"></script><meta http-equiv="origin-trial" content="AlK2UR5SkAlj8jjdEc9p3F3xuFYlF6LYjAML3EOqw1g26eCwWPjdmecULvBH5MVPoqKYrOfPhYVL71xAXI1IBQoAAAB8eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="Amm8/NmvvQfhwCib6I7ZsmUxiSCfOxWxHayJwyU1r3gRIItzr7bNQid6O8ZYaE1GSQTa69WwhPC9flq/oYkRBwsAAACCeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiV2ViVmlld1hSZXF1ZXN0ZWRXaXRoRGVwcmVjYXRpb24iLCJleHBpcnkiOjE3NTgwNjcxOTksImlzU3ViZG9tYWluIjp0cnVlfQ=="><meta http-equiv="origin-trial" content="A9nrunKdU5m96PSN1XsSGr3qOP0lvPFUB2AiAylCDlN5DTl17uDFkpQuHj1AFtgWLxpLaiBZuhrtb2WOu7ofHwEAAACKeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A93bovR+QVXNx2/38qDbmeYYf1wdte9EO37K9eMq3r+541qo0byhYU899BhPB7Cv9QqD7wIbR1B6OAc9kEfYCA4AAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A1S5fojrAunSDrFbD8OfGmFHdRFZymSM/1ss3G+NEttCLfHkXvlcF6LGLH8Mo5PakLO1sCASXU1/gQf6XGuTBgwAAACQeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElNdWx0aW1vZGFsSW5wdXQiLCJleHBpcnkiOjE3NzQzMTA0MDAsImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><style>.gc-bubbleDefault{background-color:transparent!important;text-align:left;padding:0!important;margin:0!important;border:0!important;table-layout:auto!important}.gc-reset{background-color:transparent!important;border:0!important;padding:0!important;margin:0!important;text-align:left}.pls-bubbleTop{border-bottom:1px solid #ccc!important}.pls-contentLeft,.pls-topTail,.pls-vertShimLeft{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/border_3.gif)!important}.pls-topTail{background-repeat:repeat-x!important;background-position:bottom!important}.pls-vertShim{background-color:#fff!important;text-align:right}.tbl-grey .pls-vertShim{background-color:#f5f5f5!important}.pls-vertShimLeft{background-repeat:repeat-y!important;background-position:100%!important;height:4px}.pls-vertShimRight{height:4px}.pls-confirm-container .pls-vertShim{background-color:#fff3c2!important}.pls-contentWrap{background-color:#fff!important;position:relative!important;vertical-align:top}.pls-contentLeft{background-repeat:repeat-y;background-position:100%;vertical-align:top}.pls-dropRight{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropR_3.png)!important;background-repeat:repeat-y!important;vertical-align:top}.pls-dropBL,.pls-dropTR .pls-dropBR,.pls-tailleft,.pls-vert,.pls-vert img{vertical-align:top}.pls-dropBottom{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleDropB_3.png)!important;background-repeat:repeat-x!important;width:100%;vertical-align:top}.pls-topLeft{background:inherit!important;text-align:right;vertical-align:bottom}.pls-topRight{background:inherit!important;text-align:left;vertical-align:bottom}.pls-bottomLeft{background:inherit!important;text-align:right}.pls-bottomRight{background:inherit!important;text-align:left;vertical-align:top}.pls-tailbottom,.pls-tailleft,.pls-tailright,.pls-tailtop{display:none;position:relative}.pls-dropBL,.pls-dropBR,.pls-dropTR,.pls-tailbottom,.pls-tailleft,.pls-tailright,.pls-tailtop{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite_3.png)!important;background-repeat:no-repeat}.tbl-grey .pls-dropBL,.tbl-grey .pls-dropBR,.tbl-grey .pls-dropTR,.tbl-grey .pls-tailbottom,.tbl-grey .pls-tailleft,.tbl-grey .pls-tailright,.tbl-grey .pls-tailtop{background-image:url(//ssl.gstatic.com/s2/oz/images/stars/po/bubblev1/bubbleSprite-grey.png)!important}.pls-tailbottom{background-position:-23px 0}.pls-confirm-container .pls-tailbottom{background-position:-23px -10px}.pls-tailtop{background-position:-19px -20px}.pls-tailright{background-position:0 0}.pls-tailleft{background-position:-10px 0}.pls-tailtop{vertical-align:top}.gc-bubbleDefault td{line-height:0;font-size:0}.pls-tailbottom,.pls-topLeft img,.pls-topRight img{vertical-align:bottom}.bubbleDropTR,.pls-bottomLeft,.pls-bottomLeft img,.pls-dropBottom img,.pls-dropBottomL img,.pls-dropBottomR img{vertical-align:top}.pls-dropTR{background-position:0 -22px}.pls-dropBR{background-position:0 -27px}.pls-dropBL{background-position:0 -16px}.pls-spacerbottom,.pls-spacerleft,.pls-spacerright,.pls-spacertop{position:static!important}.pls-spinner{bottom:0;position:absolute;left:0;margin:auto;right:0;top:0}</style><style id="theia-sticky-sidebar-stylesheet-TSS">.theiaStickySidebar:after {content: ""; display: table; clear: both;}</style>
+
 <div id="outer-wrapper" style="height: auto !important;">
 <header id="header-wrapper">
 <div class="main-header">
@@ -4797,389 +4838,7 @@ font-size:27px
 </div>
 </header>
 <div class="flex-c" id="content-wrapper" style="height: auto !important;">
-<div class="container row-x1 flex-sb" style="transform: none; height: auto !important;">
-<main id="main-wrapper" style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px;">
 
-<div class="theiaStickySidebar" style="padding-top: 0px; padding-bottom: 1px; position: static; transform: none; top: 0px; left: 112.5px;"><div class="main section" id="main" name="Main Posts"><div class="widget Blog flex-col" data-version="2" id="Blog1">
-<div class="title-wrap main-title"><h3 class="title">Read more »</h3><a class="title-link" href="/search">Lihat semua</a></div>
-<div class="blog-posts index-post-wrap flex-col">
-<article class="blog-post hentry index-post post-0">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/yoyo.html" title="𝑴𝑨𝑵𝑫𝑰"><span class="entry-image templateify-lazy" data-image="https://resources.blogblog.com/img/blank.gif" style="background-image:url(https://1.bp.blogspot.com/-rI4UCIrwEI4/YN3nGkf0nCI/AAAAAAAAAD0/DQ6fW7eCps8NL7S0oh374KFg1MsWUf2GQCLcBGAsYHQ/w352-h198-p-k-no-nu/ptb-nth.png)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/yoyo.html" rel="bookmark" title="𝑴𝑨𝑵𝑫𝑰">𝑴𝑨𝑵𝑫𝑰</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-29T04:24:00-07:00">Juli 29, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">
-</p>
-</div>
-</article>
-<article class="blog-post hentry index-post post-1">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/yukii.html" title="𝑨𝑹𝑨𝑪𝑯𝑼"><span class="entry-image templateify-lazy" data-image="https://resources.blogblog.com/img/blank.gif" style="background-image:url(https://1.bp.blogspot.com/-rI4UCIrwEI4/YN3nGkf0nCI/AAAAAAAAAD0/DQ6fW7eCps8NL7S0oh374KFg1MsWUf2GQCLcBGAsYHQ/w352-h198-p-k-no-nu/ptb-nth.png)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/yukii.html" rel="bookmark" title="𝑨𝑹𝑨𝑪𝑯𝑼">𝑨𝑹𝑨𝑪𝑯𝑼</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-28T10:45:00-07:00">Juli 28, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">
-</p>
-</div>
-</article>
-<article class="blog-post hentry index-post post-2">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/baby-nookie.html" title="BABY NOOKIE"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin98aTgZ5-8T1tLF0dHoKmqdKFfpw7O-fqCQE8Pwj3OZ0gQjXQRTLeg-AyShqoG-HUQiBt1q6lEe1G_LMCUUVqEUnoFQT03uM4cM8XgxNtasQRtJ7Azn8CjNo8BPaPE7BsyR0AEIwk405BsJeQ8gXjAzo1bAIKwac_VurBY9tVfJKaWX7fDDTvyK-fU40/w72-h72-p-k-no-nu/751241818_122122559067355876_5821786100564662790_n.jpg" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin98aTgZ5-8T1tLF0dHoKmqdKFfpw7O-fqCQE8Pwj3OZ0gQjXQRTLeg-AyShqoG-HUQiBt1q6lEe1G_LMCUUVqEUnoFQT03uM4cM8XgxNtasQRtJ7Azn8CjNo8BPaPE7BsyR0AEIwk405BsJeQ8gXjAzo1bAIKwac_VurBY9tVfJKaWX7fDDTvyK-fU40/w352-h198-p-k-no-nu/751241818_122122559067355876_5821786100564662790_n.jpg=w72-h72-p-k-no-nu)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/baby-nookie.html" rel="bookmark" title="BABY NOOKIE">BABY NOOKIE</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-28T10:43:00-07:00">Juli 28, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">📢 JANGAN LUPA SAVE JUGA WEBSITE BACKUP&nbsp; DI BOOKMARK KAMU!! 🔄 (KALO WEB INI DOWN SILAHKAN …</p>
-</div>
-</article>
-<article class="blog-post hentry index-post post-3">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/cathleen.html" title="CATHLEEN"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlla-Kp7aOtJF3yeeCBoOV14RZ88Q4PD4evOiNZ3xqYjf2NwWXcTZsfH2i1KtEI08XYM4P19UNRN6v5hlcwcM3b6Yqhy4bZeest2aFJWDTbIrYDiwlaZeo61satklp1Rp35COesUA4RNAGJO-Y9m0zzK5makBduzORvQNI5LA71NSZm1EkT7WWPWhC4q8/w72-h72-p-k-no-nu/5802c05c2d32d6c115b59daceefdfb4d.png" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlla-Kp7aOtJF3yeeCBoOV14RZ88Q4PD4evOiNZ3xqYjf2NwWXcTZsfH2i1KtEI08XYM4P19UNRN6v5hlcwcM3b6Yqhy4bZeest2aFJWDTbIrYDiwlaZeo61satklp1Rp35COesUA4RNAGJO-Y9m0zzK5makBduzORvQNI5LA71NSZm1EkT7WWPWhC4q8/w352-h198-p-k-no-nu/5802c05c2d32d6c115b59daceefdfb4d.png=w72-h72-p-k-no-nu)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/cathleen.html" rel="bookmark" title="CATHLEEN">CATHLEEN</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-25T14:27:00-07:00">Juli 25, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">📢 JANGAN LUPA SAVE JUGA WEBSITE BACKUP&nbsp; DI BOOKMARK KAMU!! 🔄 (KALO WEB INI DOWN SILAHKAN K…</p>
-</div>
-</article>
-<article class="blog-post hentry index-post post-4">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/jaelynn-lee.html" title="JAELYNN LEE"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9qgEkIVWoisk_i-szlwDbu3KGxdSYoHim5F88UwTJwYFmkfgC9LfDIgKJmbHbuBvpKlXO0T6xTIQ2aVzhXpWrKCKVZNzZ4qLKmLcWQcAXaAgAo7rTC2BsTAbvEAVAJZGfj4WQeoEBYyoM10b88xYsBFZtdpMXImTwatKE4NIo3eBr502yn8iSMCGiJo/w72-h72-p-k-no-nu/Screenshot%202026-07-26%20023702.png" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9qgEkIVWoisk_i-szlwDbu3KGxdSYoHim5F88UwTJwYFmkfgC9LfDIgKJmbHbuBvpKlXO0T6xTIQ2aVzhXpWrKCKVZNzZ4qLKmLcWQcAXaAgAo7rTC2BsTAbvEAVAJZGfj4WQeoEBYyoM10b88xYsBFZtdpMXImTwatKE4NIo3eBr502yn8iSMCGiJo/w352-h198-p-k-no-nu/Screenshot%202026-07-26%20023702.png=w72-h72-p-k-no-nu)"></span>
-<span class="entry-category">ASIAN</span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/jaelynn-lee.html" rel="bookmark" title="JAELYNN LEE">JAELYNN LEE</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-25T14:24:00-07:00">Juli 25, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">📢 JANGAN LUPA SAVE JUGA WEBSITE BACKUP&nbsp; DI BOOKMARK KAMU!! 🔄 (KALO WEB INI DOWN SILAHKAN KE …</p>
-</div>
-</article>
-<article class="blog-post hentry index-post post-5">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/jangan-lupa-save-juga-website-backup-di.html" title="🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 CINAS X WORD"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggy5gqEWY-bH8DMS5JbsmHH12OIVMKs4p01T6axZ0SqHBF19i1AHeMorxCYkypTq3tSMdPzoyzaeiS7sfr5Pd3ozSO_iJ6IRQROJ1vmHpbHc8iOWj26es7_AH0gNpkeMz_HPqD4EQHcNayg4Eo1HDIgHcE5vXdoTgFt9dhyphenhyphenezaCvDO5-UyN9EyeClNKeBD/w72-h72-p-k-no-nu/281_%5Bwebsite%20by%20kawai.day%5D.jpg" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggy5gqEWY-bH8DMS5JbsmHH12OIVMKs4p01T6axZ0SqHBF19i1AHeMorxCYkypTq3tSMdPzoyzaeiS7sfr5Pd3ozSO_iJ6IRQROJ1vmHpbHc8iOWj26es7_AH0gNpkeMz_HPqD4EQHcNayg4Eo1HDIgHcE5vXdoTgFt9dhyphenhyphenezaCvDO5-UyN9EyeClNKeBD/w352-h198-p-k-no-nu/281_%5Bwebsite%20by%20kawai.day%5D.jpg=w72-h72-p-k-no-nu)"></span>
-<span class="entry-category">ASIAN</span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/jangan-lupa-save-juga-website-backup-di.html" rel="bookmark" title="🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 CINAS X WORD">🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 CINAS X WORD</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-20T19:32:00-07:00">Juli 20, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">📢 JANGAN LUPA SAVE JUGA WEBSITE BACKUP&nbsp; DI BOOKMARK KAMU!! 🔄 (KALO WEB INI DOWN SILAHKAN K…</p>
-</div>
-</article>
-<article class="blog-post hentry index-post post-6">
-<a class="entry-image-wrap is-image" href="https://mediatiktokvip.blogspot.com/2026/07/1.html" title="🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 GIRLYLANA❋"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGbJAwUdjJJ0l5L1e9QJtMjOmFG82EWnNfwgkvGkWauz6owVapQbR6kqvRU1lkf8N7CCH2IzoSTzI4mCSslZX7ErI7vh8QEjcVY1DP68MDZLkuOnPnLMhwLfPg8HfRlOyw17zz0cCyTf-zb6yI37sEQuZ9PDLc3m6QZLIgrlk-y_276lz_kqnPyDLz0iJ4/w72-h72-p-k-no-nu/output%20(2).jpg" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGbJAwUdjJJ0l5L1e9QJtMjOmFG82EWnNfwgkvGkWauz6owVapQbR6kqvRU1lkf8N7CCH2IzoSTzI4mCSslZX7ErI7vh8QEjcVY1DP68MDZLkuOnPnLMhwLfPg8HfRlOyw17zz0cCyTf-zb6yI37sEQuZ9PDLc3m6QZLIgrlk-y_276lz_kqnPyDLz0iJ4/w352-h198-p-k-no-nu/output%20(2).jpg=w72-h72-p-k-no-nu)"></span>
-<span class="entry-category">ASIAN</span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/1.html" rel="bookmark" title="🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 GIRLYLANA❋">🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 GIRLYLANA❋</a></h2>
-<div class="entry-meta">
-<span class="entry-time mi"><time class="published" datetime="2026-07-18T22:48:00-07:00">Juli 18, 2026</time></span>
-</div>
-<p class="entry-excerpt excerpt">___________________________________________________________________________ 📢 JANGAN LUPA …</p>
-</div>
-</article>
-</div>
-<div class="blog-pager" id="blog-pager">
-<a class="blog-pager-older-link load-more" data-load="https://mediatiktokvip.blogspot.com/search?updated-max=2026-07-18T22:48:00-07:00&amp;max-results=7" href="#" id="renzzy-pro-load-more-link">
-Muat postingan lainnya
-</a>
-<span class="loading"><div class="loader"></div></span>
-<span class="no-more load-more">
-Tak ada hasil yang ditemukan
-</span>
-</div>
-
-</div>
-<div class="widget HTML" data-version="1" id="HTML602">
-</div>
-<div class="widget HTML" data-version="1" id="HTML59">
-</div></div></div></main>
-<aside id="sidebar-wrapper" style="position: relative; overflow: visible; box-sizing: border-box; min-height: 1px; height: auto !important;">
-
-<div class="theiaStickySidebar" style="padding-top: 0px; padding-bottom: 1px; position: static; transform: none; height: auto !important;"><div class="sidebar templateify-section section" id="sidebar" name="Bilah Sisi" style="height: auto !important;"><div class="widget Text" data-version="2" id="Text6">
-<div class="widget-title title-wrap"><h3 class="title">[🔥] NOTIF:</h3></div>
-<div class="widget-content excerpt">
-GUNAKAN VIP LINK DENAN BAYAR 3K VIA QRIS.(JIKA TIDAK INGIN ADA IKLAN MENGGANGGU.
-</div>
-</div><div class="widget Text" data-version="2" id="Text5">
-<div class="widget-title title-wrap"><h3 class="title">[🔥] NOTIF:</h3></div>
-<div class="widget-content excerpt">
-MULAI SEKARANG “HARGA VIP LINK CUMAN 3K” UNTUK SEMUA KONTEN(BERLAKU SAMPAI WAKTU YANG TIDAK DI TENTUKAN)
-</div>
-</div><div class="widget Label" data-version="2" id="Label2">
-<div class="widget-title title-wrap"><h3 class="title">[GENRE / TYPE]</h3></div>
-<div class="widget-content list-label">
-<ul class="list-style">
-<li><a class="label-name has-count" href="https://mediatiktokvip.blogspot.com/search/label/ASIAN">ASIAN
-<span class="label-count count-style">(5)</span></a></li>
-<li><a class="label-name has-count" href="https://mediatiktokvip.blogspot.com/search/label/BARAT">BARAT
-<span class="label-count count-style">(5)</span></a></li>
-<li><a class="label-name has-count" href="https://mediatiktokvip.blogspot.com/search/label/COSPLAY">COSPLAY
-<span class="label-count count-style">(5)</span></a></li>
-<li><a class="label-name has-count" href="https://mediatiktokvip.blogspot.com/search/label/LIVE">LIVE
-<span class="label-count count-style">(4)</span></a></li>
-<li><a class="label-name has-count" href="https://mediatiktokvip.blogspot.com/search/label/LOKAL">LOKAL
-<span class="label-count count-style">(4)</span></a></li>
-<li><a class="label-name has-count" href="https://mediatiktokvip.blogspot.com/search/label/VIP%20COLLECTION">VIP COLLECTION
-<span class="label-count count-style">(5)</span></a></li>
-</ul>
-</div>
-</div><div class="widget PopularPosts" data-version="2" id="PopularPosts2">
-<div class="widget-title title-wrap"><h3 class="title">🐦&zwj;🔥[PALING DISUKAI]</h3></div>
-<div class="widget-content side-items">
-<div class="side-item cs item-0">
-<a class="entry-inner" href="https://mediatiktokvip.blogspot.com/2026/07/baby-nookie.html" title="BABY NOOKIE">
-<span class="entry-image-wrap before-mask is-image"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin98aTgZ5-8T1tLF0dHoKmqdKFfpw7O-fqCQE8Pwj3OZ0gQjXQRTLeg-AyShqoG-HUQiBt1q6lEe1G_LMCUUVqEUnoFQT03uM4cM8XgxNtasQRtJ7Azn8CjNo8BPaPE7BsyR0AEIwk405BsJeQ8gXjAzo1bAIKwac_VurBY9tVfJKaWX7fDDTvyK-fU40/w72-h72-p-k-no-nu/751241818_122122559067355876_5821786100564662790_n.jpg" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin98aTgZ5-8T1tLF0dHoKmqdKFfpw7O-fqCQE8Pwj3OZ0gQjXQRTLeg-AyShqoG-HUQiBt1q6lEe1G_LMCUUVqEUnoFQT03uM4cM8XgxNtasQRtJ7Azn8CjNo8BPaPE7BsyR0AEIwk405BsJeQ8gXjAzo1bAIKwac_VurBY9tVfJKaWX7fDDTvyK-fU40/w323-h198-p-k-no-nu/751241818_122122559067355876_5821786100564662790_n.jpg=w72-h72-p-k-no-nu)"></span>
-</span>
-<div class="entry-header entry-info">
-<h2 class="entry-title">BABY NOOKIE</h2>
-<div class="entry-meta"><span class="entry-time mi"><time class="published" datetime="2026-07-28T10:43:00-07:00">Juli 28, 2026</time></span></div>
-</div>
-</a>
-</div>
-<div class="side-item item-1">
-<a class="entry-image-wrap sz-1 is-image" href="https://mediatiktokvip.blogspot.com/2026/07/yoyo.html" title="𝑴𝑨𝑵𝑫𝑰"><span class="entry-image templateify-lazy" data-image="https://resources.blogblog.com/img/blank.gif" style="background-image:url(https://1.bp.blogspot.com/-rI4UCIrwEI4/YN3nGkf0nCI/AAAAAAAAAD0/DQ6fW7eCps8NL7S0oh374KFg1MsWUf2GQCLcBGAsYHQ/w108-h72-p-k-no-nu/ptb-nth.png)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/yoyo.html" title="𝑴𝑨𝑵𝑫𝑰">𝑴𝑨𝑵𝑫𝑰</a></h2>
-<div class="entry-meta"><time class="published" datetime="2026-07-29T04:24:00-07:00">Juli 29, 2026</time></div>
-</div>
-</div>
-<div class="side-item item-2">
-<a class="entry-image-wrap sz-1 is-image" href="https://mediatiktokvip.blogspot.com/2026/07/cathleen.html" title="CATHLEEN"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlla-Kp7aOtJF3yeeCBoOV14RZ88Q4PD4evOiNZ3xqYjf2NwWXcTZsfH2i1KtEI08XYM4P19UNRN6v5hlcwcM3b6Yqhy4bZeest2aFJWDTbIrYDiwlaZeo61satklp1Rp35COesUA4RNAGJO-Y9m0zzK5makBduzORvQNI5LA71NSZm1EkT7WWPWhC4q8/w72-h72-p-k-no-nu/5802c05c2d32d6c115b59daceefdfb4d.png" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlla-Kp7aOtJF3yeeCBoOV14RZ88Q4PD4evOiNZ3xqYjf2NwWXcTZsfH2i1KtEI08XYM4P19UNRN6v5hlcwcM3b6Yqhy4bZeest2aFJWDTbIrYDiwlaZeo61satklp1Rp35COesUA4RNAGJO-Y9m0zzK5makBduzORvQNI5LA71NSZm1EkT7WWPWhC4q8/w108-h72-p-k-no-nu/5802c05c2d32d6c115b59daceefdfb4d.png=w72-h72-p-k-no-nu)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/cathleen.html" title="CATHLEEN">CATHLEEN</a></h2>
-<div class="entry-meta"><time class="published" datetime="2026-07-25T14:27:00-07:00">Juli 25, 2026</time></div>
-</div>
-</div>
-<div class="side-item item-3">
-<a class="entry-image-wrap sz-1 is-image" href="https://mediatiktokvip.blogspot.com/2026/07/jangan-lupa-save-juga-website-backup-di.html" title="🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 CINAS X WORD"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggy5gqEWY-bH8DMS5JbsmHH12OIVMKs4p01T6axZ0SqHBF19i1AHeMorxCYkypTq3tSMdPzoyzaeiS7sfr5Pd3ozSO_iJ6IRQROJ1vmHpbHc8iOWj26es7_AH0gNpkeMz_HPqD4EQHcNayg4Eo1HDIgHcE5vXdoTgFt9dhyphenhyphenezaCvDO5-UyN9EyeClNKeBD/w72-h72-p-k-no-nu/281_%5Bwebsite%20by%20kawai.day%5D.jpg" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggy5gqEWY-bH8DMS5JbsmHH12OIVMKs4p01T6axZ0SqHBF19i1AHeMorxCYkypTq3tSMdPzoyzaeiS7sfr5Pd3ozSO_iJ6IRQROJ1vmHpbHc8iOWj26es7_AH0gNpkeMz_HPqD4EQHcNayg4Eo1HDIgHcE5vXdoTgFt9dhyphenhyphenezaCvDO5-UyN9EyeClNKeBD/w108-h72-p-k-no-nu/281_%5Bwebsite%20by%20kawai.day%5D.jpg=w72-h72-p-k-no-nu)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/jangan-lupa-save-juga-website-backup-di.html" title="🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 CINAS X WORD">🔥[ 𝙐𝙋𝘿𝘼𝙏𝙀 ] ❋𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦 CINAS X WORD</a></h2>
-<div class="entry-meta"><time class="published" datetime="2026-07-20T19:32:00-07:00">Juli 20, 2026</time></div>
-</div>
-</div>
-<div class="side-item item-4">
-<a class="entry-image-wrap sz-1 is-image" href="https://mediatiktokvip.blogspot.com/2026/07/jaelynn-lee.html" title="JAELYNN LEE"><span class="entry-image templateify-lazy" data-image="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9qgEkIVWoisk_i-szlwDbu3KGxdSYoHim5F88UwTJwYFmkfgC9LfDIgKJmbHbuBvpKlXO0T6xTIQ2aVzhXpWrKCKVZNzZ4qLKmLcWQcAXaAgAo7rTC2BsTAbvEAVAJZGfj4WQeoEBYyoM10b88xYsBFZtdpMXImTwatKE4NIo3eBr502yn8iSMCGiJo/w72-h72-p-k-no-nu/Screenshot%202026-07-26%20023702.png" style="background-image:url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF9qgEkIVWoisk_i-szlwDbu3KGxdSYoHim5F88UwTJwYFmkfgC9LfDIgKJmbHbuBvpKlXO0T6xTIQ2aVzhXpWrKCKVZNzZ4qLKmLcWQcAXaAgAo7rTC2BsTAbvEAVAJZGfj4WQeoEBYyoM10b88xYsBFZtdpMXImTwatKE4NIo3eBr502yn8iSMCGiJo/w108-h72-p-k-no-nu/Screenshot%202026-07-26%20023702.png=w72-h72-p-k-no-nu)"></span>
-</a>
-<div class="entry-header">
-<h2 class="entry-title"><a href="https://mediatiktokvip.blogspot.com/2026/07/jaelynn-lee.html" title="JAELYNN LEE">JAELYNN LEE</a></h2>
-<div class="entry-meta"><time class="published" datetime="2026-07-25T14:24:00-07:00">Juli 25, 2026</time></div>
-</div>
-</div>
-</div>
-</div><div class="widget LinkList" data-version="2" id="LinkList1">
-<div class="widget-title title-wrap"><h3 class="title">Follow Us</h3></div>
-<div class="widget-content">
-<ul class="social-icons social social-bg">
-<li class="facebook link-0"><a alt="facebook" class="fa-facebook btn" href="" rel="noopener noreferrer" target="_blank" title="facebook"><span class="text">Facebook</span></a></li>
-<li class="x-twitter link-1"><a alt="x-twitter" class="fa-x-twitter btn" href="" rel="noopener noreferrer" target="_blank" title="x-twitter"><span class="text">Twitter</span></a></li>
-<li class="youtube link-2"><a alt="youtube" class="fa-youtube btn" href="" rel="noopener noreferrer" target="_blank" title="youtube"><span class="text">YouTube</span></a></li>
-<li class="instagram link-3"><a alt="instagram" class="fa-instagram btn" href="" rel="noopener noreferrer" target="_blank" title="instagram"><span class="text">Instagram</span></a></li>
-</ul>
-</div>
-</div><div class="widget HTML is-ad" data-version="2" id="HTML2" style="height: auto !important;">
-<div class="widget-content" style="height: auto !important;">
-
-<!-- 1 -->
-<ins class="adsbygoogle" style="display: block; height: 600px;" data-ad-client="ca-pub-2003809904493266" data-ad-slot="3559106636" data-ad-format="auto" data-full-width-responsive="true" data-adsbygoogle-status="done" data-ad-status="unfilled"><div id="aswift_1_host" style="border-width: medium; border-style: none; border-color: currentcolor; border-image: none; height: 600px; width: 294px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: visible;"><iframe id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0;width:294px;height:600px;min-height:auto;max-height:none;min-width:auto;max-width:none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="294" height="600" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-2003809904493266&amp;output=html&amp;h=600&amp;slotname=3559106636&amp;adk=2346061515&amp;adf=4160452689&amp;pi=t.ma~as.3559106636&amp;abgtt=6&amp;w=294&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1785922163&amp;rafmt=1&amp;format=294x600&amp;url=https%3A%2F%2Fmediatiktokvip.blogspot.com%2F&amp;host=ca-host-pub-1556223355139109&amp;fwr=0&amp;fwrattr=true&amp;rpe=1&amp;resp_fmts=4&amp;aiof=10&amp;asro=0&amp;aimartd=4&amp;aieuf=1&amp;aicrs=1&amp;uach=WyJXaW5kb3dzIiwiMTUuMC4wIiwieDg2IiwiIiwiMTUwLjAuNzg3MS4xODciLG51bGwsMCxudWxsLCI2NCIsW1siTm90O0E9QnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjE1MC4wLjc4NzEuMTg3Il0sWyJHb29nbGUgQ2hyb21lIiwiMTUwLjAuNzg3MS4xODciXV0sMF0.&amp;dt=1785922407700&amp;bpp=3&amp;bdt=2821&amp;idt=1955&amp;shv=r20260804&amp;mjsv=m202607310101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie_enabled=1&amp;eoidce=1&amp;prev_fmts=0x0&amp;nras=1&amp;correlator=384938164918&amp;frm=20&amp;pv=1&amp;u_tz=420&amp;u_his=1&amp;u_h=900&amp;u_w=1440&amp;u_ah=852&amp;u_aw=1440&amp;u_cd=24&amp;u_sd=1&amp;dmc=8&amp;adx=999&amp;ady=1753&amp;biw=1425&amp;bih=765&amp;scr_x=0&amp;scr_y=0&amp;eid=95394063%2C95396138%2C122880116&amp;oid=2&amp;pvsid=4617244604958648&amp;tmod=1591040792&amp;uas=3&amp;nvt=1&amp;ref=https%3A%2F%2Fwww.blogger.com%2F&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1440%2C0%2C1440%2C852%2C1440%2C765&amp;vis=1&amp;rsz=%7C%7CoeEbr%7C&amp;abl=CS&amp;pfx=0&amp;fu=128&amp;bc=31&amp;bz=1&amp;pgls=CAA.&amp;ifi=2&amp;uci=a!2&amp;btvi=1&amp;fsb=1&amp;dtd=1966" data-google-container-id="a!2" tabindex="0" title="Advertisement" aria-label="Advertisement" data-load-complete="true"></iframe></div></ins>
-
-</div>
-</div>
-<div class="widget HTML" data-version="1" id="HTML85">
-
-            
-          
-        </div>
-<div class="widget Navbar" data-version="2" id="Navbar1">
-<div id="navbar-iframe-container"><iframe ng-non-bindable="" frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="" tabindex="0" vspace="0" width="100%" id="navbar-iframe" name="navbar-iframe" src="https://www.blogger.com/navbar/3482313958961783508?origin=https://mediatiktokvip.blogspot.com&amp;usegapi=1&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.9vdPKhB0RUg.O%2Fd%3D1%2Frs%3DAHpOoo97anj7zZ432JcN58tqJJp_A6WeOw%2Fm%3D__features__#id=navbar-iframe&amp;_gfid=navbar-iframe&amp;parent=https%3A%2F%2Fmediatiktokvip.blogspot.com&amp;pfname=&amp;rpctoken=40580217"></iframe></div>
-
-
-</div>
-<div class="widget HTML" data-version="1" id="HTML671">
-<div class="section2">
-          
-            
-		</div>
-</div>
-<div class="widget LinkList" data-version="2" id="LinkList25">
-  
-</div>
-<div class="widget HTML" data-version="1" id="HTML653">
-
-            
-          
-        </div>
-<div class="widget Label" data-version="2" id="Label12">
-<div class="widget-title title-wrap"><h3 class="title">CARI TAG/GENRE</h3></div>
-<div class="widget-content list-label">
-<ul>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/ASIAN">
-ASIAN
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/BARAT">
-BARAT
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/BEST%20KONTEN">
-BEST KONTEN
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/COSPLAY">
-COSPLAY
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/EROPA">
-EROPA
-<span class="label-count">4</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/GB">
-GB
-<span class="label-count">4</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/JAV">
-JAV
-<span class="label-count">4</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/LIVE">
-LIVE
-<span class="label-count">4</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/LOKAL">
-LOKAL
-<span class="label-count">4</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/NEW%20UPDATE%F0%9F%94%A5">
-NEW UPDATE🔥
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/SEGSS">
-SEGSS
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/TOYS">
-TOYS
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/VIP%20COLLECTION">
-VIP COLLECTION
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/%F0%9D%97%96%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%A0%F0%9D%97%98%F0%9D%97%9E">
-𝗖𝗢𝗟𝗠𝗘𝗞
-<span class="label-count">5</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/%F0%9D%97%9D%F0%9D%97%94%F0%9D%97%A9%20%F0%9D%97%A8%F0%9D%97%A1%F0%9D%97%96%F0%9D%97%98%F0%9D%97%A1">
-𝗝𝗔𝗩 𝗨𝗡𝗖𝗘𝗡
-<span class="label-count">4</span>
-</a>
-</li>
-<li>
-<a class="label-name" href="https://mediatiktokvip.blogspot.com/search/label/%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%9F%F0%9D%97%AC%F0%9D%97%99%F0%9D%97%94%F0%9D%97%A1%F0%9D%97%A6%2FFANSLY">
-𝗢𝗡𝗟𝗬𝗙𝗔𝗡𝗦/FANSLY
-<span class="label-count">5</span>
-</a>
-</li>
-</ul>
-</div>
-</div><div class="widget Header" data-version="2" id="Header1">
-<div class="header-widget">
-<h1 class="blog-title">
-<a href="https://mediatiktokvip.blogspot.com/">
-VIP 666
-</a>
-</h1>
-</div>
-</div><div class="widget Image" data-version="2" id="Image121">
-<a class="mobile-menu-toggle" href="javascript:;" role="button" title="Menu"></a>
-<div class="widget-title title-wrap"><h3 class="title">Mobile Logo</h3></div>
-<div class="widget-content">
-<div class="custom-image">
-<a href="/">
-<img alt="VIP 666" id="Image121_img" src="https://blogger.googleusercontent.com/img/a/AVvXsEio_uG9VtbhndDI1MGL5OxlDE-xQDP6jL5hZsm4j2dNUDPnLYhhvbzzwzDS9hfs9upBT1gs55m9xwNBEDKTfLevpKv2Dr4WgvYRNvIhv4rzmMrcigVytX_6RTct57m_nxOdM6ElF4JtW9ywaZk_rqMecukTkyIxg3uo4ITCxiVdpDIAeFCGOLzo7Ncw3I4=s257" style="visibility: visible;">
-</a>
-</div>
-</div>
-</div><div class="widget HTML" data-version="1" id="HTML623">
-
-            
-          
-        </div><div class="widget FeaturedPost" data-version="2" id="FeaturedPost1">
-<div class="widget-title title-wrap"><h3 class="title">🔥REKOMENDASI</h3></div>
-<div class="widget-content">
-<div class="featured-post cs">
-<a class="entry-inner" href="https://mediatiktokvip.blogspot.com/2026/07/yoyo.html" title="𝑴𝑨𝑵𝑫𝑰">
-<span class="entry-image-wrap before-mask is-image"><span class="entry-image templateify-lazy" data-image="https://resources.blogblog.com/img/blank.gif" style="background-image:url(https://1.bp.blogspot.com/-rI4UCIrwEI4/YN3nGkf0nCI/AAAAAAAAAD0/DQ6fW7eCps8NL7S0oh374KFg1MsWUf2GQCLcBGAsYHQ/w323-h198-p-k-no-nu/ptb-nth.png)"></span>
-</span>
-<div class="entry-header entry-info">
-<h2 class="entry-title">𝑴𝑨𝑵𝑫𝑰</h2>
-<div class="entry-meta"><span class="entry-time mi"><time class="published" datetime="2026-07-29T04:24:00-07:00">Juli 29, 2026</time></span></div>
-</div>
-</a>
-</div>
-</div>
-</div><div class="widget HTML" data-version="2" id="HTML11">
-<div class="widget-title title-wrap"><h3 class="title">Slider Post</h3></div>
-<div class="widget-content">
-6/slider/recent
-</div>
-</div>
-<div class="widget HTML" data-version="2" id="HTML17">
-<div class="widget-title title-wrap"><h3 class="title">Top Ads Homepage</h3></div>
-<div class="widget-content">
-<a class="piki-ads" href="javascript:;">Your Responsive Ads code (Google Ads)</a>
-</div>
-</div>
-<div class="widget HTML" data-version="1" id="HTML693">
-
-            
-          
-        </div>
-<div class="widget HTML" data-version="1" id="HTML672">
-
-            
-          
-        </div></div></div></aside>
-</div>
 </div>
 <footer class="flex-col" id="footer-wrapper">
 <div class="footer-bar flex-c">
@@ -5293,4 +4952,13 @@ _WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML672', 'sidebar'
 _WidgetManager._RegisterWidget('_ContactFormView', new _WidgetInfo('ContactForm1', 'hidden-widgets', document.getElementById('ContactForm1'), {'contactFormMessageSendingMsg': 'Mengirim...', 'contactFormMessageSentMsg': 'Pesan sudah dikirim.', 'contactFormMessageNotSentMsg': 'Pesan tidak dapat dikirim. Coba lagi nanti.', 'contactFormInvalidEmailMsg': 'Alamat email harus valid.', 'contactFormEmptyMessageMsg': 'Bidang pesan harus diisi.', 'title': 'Formulir Kontak', 'blogId': '3482313958961783508', 'contactFormNameMsg': 'Nama', 'contactFormEmailMsg': 'Email', 'contactFormMessageMsg': 'Pesan', 'contactFormSendMsg': 'Kirim', 'contactFormToken': 'ACvIOeB38pLnRNxoDHb9dvvDCITj:1785922167350', 'submitUrl': 'https://www.blogger.com/contact-form'}, 'displayModeFull'));
 </script>
 
-</body><iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20260804/r20190131/zrt_lookup_fy2021.html" style="display: none;"></iframe></html>
+<iframe id="google_esf" name="google_esf" src="https://googleads.g.doubleclick.net/pagead/html/r20260804/r20190131/zrt_lookup_fy2021.html" style="display: none;"></iframe>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
+
+</body></html>
